@@ -1,0 +1,16 @@
+{
+    "name": "logo-generator",
+    "version": "1.0.0",
+    "description": "A Node.js command-line application to generate logos as SVG files",
+    "main": "logo-generator.js",
+    "dependencies": {
+      "inquirer": "^8.2.0",
+      "svg-builder": "^1.0.0"
+    },
+    "scripts": {
+      "start": "node logo-generator.js"
+    },
+    "author": "Ben Zarrelli",
+    "license": "MIT"
+  }
+  
